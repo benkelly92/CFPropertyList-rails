@@ -3,6 +3,6 @@ require 'CFPropertyList-rails/railtie'
 
 module CFPropertyList
   module Rails
-    MIME_TYPE = 'application/octet-stream'
+    MIME_TYPE = 'application/xml'
   end
 end
